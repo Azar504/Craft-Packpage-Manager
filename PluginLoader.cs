@@ -14,7 +14,7 @@ public class PluginLoader {
     private readonly List<ICraftPlugin> LoadedPlugins = new();
 
     public bool CheckPermissions(string level) {
-        return true; // Aplique verificação real aqui
+        return true; // Aplique verificação real aqui//n Tenho noção de comofazer esza bosta 🤡
     }
 
     public void LogError(string msg) {
